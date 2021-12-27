@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khanhson261
-- 👀 I’m interested in BA, BI
+- 👀 I’m interested in BA, BI and IOS
 - 🌱 I’m currently learning BI and IOS
 - 💞️ I’m looking to collaborate on BI
 
