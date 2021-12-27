@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khanhson261
-- 👀 I’m interested in BA, BI, DA
-- 🌱 I’m currently learning BI and DA
+- 👀 I’m interested in BA, BI
+- 🌱 I’m currently learning BI and IOS
 - 💞️ I’m looking to collaborate on BI
 
 <!---
